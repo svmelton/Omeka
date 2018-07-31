@@ -26,7 +26,8 @@ The workshop will consist of four hands-on exercises:
 
 ## Resources
 
-A [resources document](resources) includes select readings, tutorials, and example Omeka projects.
+- A [resources document](resources) includes select readings, tutorials, and example Omeka projects.
+- A [comparison](https://github.com/tech-at-arl/Digital-Scholarship-Institute/blob/master/August%202018/Archives%20and%20Exhibitions/docs/Alternative_DigitalExhibit_Systems.pdf) of other exhibition platforms.
 
 ## Site info
 Created using the [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) lesson written by Amanda Visconti for [Programming Historian](https://programminghistorian.org/).
